@@ -86,5 +86,5 @@ This project implements a **University Management System** using various data st
 ---
 
 ## License
-This project is licensed under the gdu License.
+This project is licensed under the GNU General Public License.
 
